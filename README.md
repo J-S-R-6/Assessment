@@ -1,4 +1,4 @@
-# Assessment
+Assessment
 
-# Time series forecasting
-# Multi class classification
+1) Time series forecasting
+2) Multi class classification
